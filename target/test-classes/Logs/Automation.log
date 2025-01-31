@@ -43,3 +43,20 @@
 2025-01-31 14:20:23,576 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
 2025-01-31 14:20:23,589 - Pranav_Framework -INFO - Close application
 2025-01-31 14:20:24,562 - Pranav_Framework -INFO - Browser close successfully
+2025-01-31 14:41:46,796 - Pranav_Framework -INFO - Logger initialized
+2025-01-31 14:41:46,810 - Pranav_Framework -INFO - Setting up browser
+2025-01-31 14:41:46,811 - Pranav_Framework -INFO - Open chrome browser
+2025-01-31 14:41:58,372 - Pranav_Framework -INFO - Browser open successfully
+2025-01-31 14:41:58,372 - Pranav_Framework -INFO - Browser maximize
+2025-01-31 14:41:58,650 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-01-31 14:41:58,679 - Pranav_Framework -INFO - Open application: 
+2025-01-31 14:41:59,595 - Pranav_Framework -INFO - **** Starting Test Case: TC02_LoginClass ****
+2025-01-31 14:41:59,598 - Pranav_Framework -INFO - Navigate to homepage
+2025-01-31 14:41:59,711 - Pranav_Framework -INFO - click on my account dropdown
+2025-01-31 14:42:01,857 - Pranav_Framework -INFO - click on login
+2025-01-31 14:42:02,626 - Pranav_Framework -INFO - Navigate to loginpage
+2025-01-31 14:42:02,638 - Pranav_Framework -INFO - enter usernamejohn432@gmail.com
+2025-01-31 14:42:03,051 - Pranav_Framework -INFO - enter usernameJohn@123
+2025-01-31 14:42:03,160 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
+2025-01-31 14:42:03,170 - Pranav_Framework -INFO - Close application
+2025-01-31 14:42:03,944 - Pranav_Framework -INFO - Browser close successfully

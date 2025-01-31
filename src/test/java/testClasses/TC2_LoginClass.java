@@ -29,12 +29,17 @@ public class TC2_LoginClass extends BaseClass {
 			Loginpage lp = new Loginpage(driver);
 
 			String email = GenericUtilities.getConfigData("emailID");
-			logger.info("enter username" + email);
+			logger.info("enter username: " + email);
 			lp.enter_Username(email);
 
+			Thread.sleep(2000);
+			
 			String pass = GenericUtilities.getConfigData("password");
-			logger.info("enter username" + pass);
-			lp.enter_Username(pass);
+			logger.info("enter password: " + pass);
+			lp.enter_Password(pass);
+			
+			logger.info("click on login button");
+			lp.clickOn_LoginButton();
 
 		} 
 		catch (Exception e) {
