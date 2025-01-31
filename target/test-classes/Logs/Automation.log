@@ -1,0 +1,28 @@
+2025-01-28 13:15:54,153 - Pranav_Framework -INFO - Logger initialized
+2025-01-28 13:15:54,171 - Pranav_Framework -INFO - Setting up browser: chrome
+2025-01-28 13:15:54,172 - Pranav_Framework -INFO - Open chrome browser
+2025-01-28 13:16:01,503 - Pranav_Framework -INFO - Browser open successfully
+2025-01-28 13:16:01,504 - Pranav_Framework -INFO - Browser maximize
+2025-01-28 13:16:01,614 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-01-28 13:16:01,634 - Pranav_Framework -INFO - Open application: 
+2025-01-28 13:16:04,162 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
+2025-01-28 13:16:04,165 - Pranav_Framework -INFO - Navigate to homepage
+2025-01-28 13:16:04,356 - Pranav_Framework -INFO - click on my account
+2025-01-28 13:16:05,256 - Pranav_Framework -INFO - click on register option
+2025-01-28 13:16:06,448 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
+2025-01-28 13:16:06,483 - Pranav_Framework -INFO - Close browser
+2025-01-28 13:16:07,067 - Pranav_Framework -INFO - Browser close successfully
+2025-01-28 15:31:46,909 - Pranav_Framework -INFO - Logger initialized
+2025-01-28 15:31:46,945 - Pranav_Framework -INFO - Setting up browser: chrome
+2025-01-28 15:31:46,947 - Pranav_Framework -INFO - Open chrome browser
+2025-01-28 15:31:59,875 - Pranav_Framework -INFO - Browser open successfully
+2025-01-28 15:31:59,877 - Pranav_Framework -INFO - Browser maximize
+2025-01-28 15:31:59,991 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-01-28 15:32:00,009 - Pranav_Framework -INFO - Open application: 
+2025-01-28 15:32:02,539 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
+2025-01-28 15:32:02,542 - Pranav_Framework -INFO - Navigate to homepage
+2025-01-28 15:32:02,687 - Pranav_Framework -INFO - click on my account
+2025-01-28 15:32:03,251 - Pranav_Framework -INFO - click on register option
+2025-01-28 15:32:04,507 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
+2025-01-28 15:32:04,532 - Pranav_Framework -INFO - Close application: org.openqa.selenium.remote.Browser$1@4ef27d66
+2025-01-28 15:32:05,075 - Pranav_Framework -INFO - Browser close successfully
