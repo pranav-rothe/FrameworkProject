@@ -1,80 +1,751 @@
-2025-01-28 13:15:54,153 - Pranav_Framework -INFO - Logger initialized
-2025-01-28 13:15:54,171 - Pranav_Framework -INFO - Setting up browser: chrome
-2025-01-28 13:15:54,172 - Pranav_Framework -INFO - Open chrome browser
-2025-01-28 13:16:01,503 - Pranav_Framework -INFO - Browser open successfully
-2025-01-28 13:16:01,504 - Pranav_Framework -INFO - Browser maximize
-2025-01-28 13:16:01,614 - Pranav_Framework -INFO - Setting up implicitly wait
-2025-01-28 13:16:01,634 - Pranav_Framework -INFO - Open application: 
-2025-01-28 13:16:04,162 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
-2025-01-28 13:16:04,165 - Pranav_Framework -INFO - Navigate to homepage
-2025-01-28 13:16:04,356 - Pranav_Framework -INFO - click on my account
-2025-01-28 13:16:05,256 - Pranav_Framework -INFO - click on register option
-2025-01-28 13:16:06,448 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
-2025-01-28 13:16:06,483 - Pranav_Framework -INFO - Close browser
-2025-01-28 13:16:07,067 - Pranav_Framework -INFO - Browser close successfully
-2025-01-28 15:31:46,909 - Pranav_Framework -INFO - Logger initialized
-2025-01-28 15:31:46,945 - Pranav_Framework -INFO - Setting up browser: chrome
-2025-01-28 15:31:46,947 - Pranav_Framework -INFO - Open chrome browser
-2025-01-28 15:31:59,875 - Pranav_Framework -INFO - Browser open successfully
-2025-01-28 15:31:59,877 - Pranav_Framework -INFO - Browser maximize
-2025-01-28 15:31:59,991 - Pranav_Framework -INFO - Setting up implicitly wait
-2025-01-28 15:32:00,009 - Pranav_Framework -INFO - Open application: 
-2025-01-28 15:32:02,539 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
-2025-01-28 15:32:02,542 - Pranav_Framework -INFO - Navigate to homepage
-2025-01-28 15:32:02,687 - Pranav_Framework -INFO - click on my account
-2025-01-28 15:32:03,251 - Pranav_Framework -INFO - click on register option
-2025-01-28 15:32:04,507 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
-2025-01-28 15:32:04,532 - Pranav_Framework -INFO - Close application: org.openqa.selenium.remote.Browser$1@4ef27d66
-2025-01-28 15:32:05,075 - Pranav_Framework -INFO - Browser close successfully
-2025-01-31 14:20:05,186 - Pranav_Framework -INFO - Logger initialized
-2025-01-31 14:20:05,206 - Pranav_Framework -INFO - Setting up browser
-2025-01-31 14:20:05,209 - Pranav_Framework -INFO - Open chrome browser
-2025-01-31 14:20:18,321 - Pranav_Framework -INFO - Browser open successfully
-2025-01-31 14:20:18,322 - Pranav_Framework -INFO - Browser maximize
-2025-01-31 14:20:18,502 - Pranav_Framework -INFO - Setting up implicitly wait
-2025-01-31 14:20:18,519 - Pranav_Framework -INFO - Open application: 
-2025-01-31 14:20:21,684 - Pranav_Framework -INFO - **** Starting Test Case: TC02_LoginClass ****
-2025-01-31 14:20:21,686 - Pranav_Framework -INFO - Navigate to homepage
-2025-01-31 14:20:21,879 - Pranav_Framework -INFO - click on my account dropdown
-2025-01-31 14:20:22,289 - Pranav_Framework -INFO - click on login
-2025-01-31 14:20:23,003 - Pranav_Framework -INFO - Navigate to loginpage
-2025-01-31 14:20:23,040 - Pranav_Framework -INFO - enter usernamejohn432@gmail.com
-2025-01-31 14:20:23,442 - Pranav_Framework -INFO - enter usernameJohn@123
-2025-01-31 14:20:23,576 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
-2025-01-31 14:20:23,589 - Pranav_Framework -INFO - Close application
-2025-01-31 14:20:24,562 - Pranav_Framework -INFO - Browser close successfully
-2025-01-31 14:41:46,796 - Pranav_Framework -INFO - Logger initialized
-2025-01-31 14:41:46,810 - Pranav_Framework -INFO - Setting up browser
-2025-01-31 14:41:46,811 - Pranav_Framework -INFO - Open chrome browser
-2025-01-31 14:41:58,372 - Pranav_Framework -INFO - Browser open successfully
-2025-01-31 14:41:58,372 - Pranav_Framework -INFO - Browser maximize
-2025-01-31 14:41:58,650 - Pranav_Framework -INFO - Setting up implicitly wait
-2025-01-31 14:41:58,679 - Pranav_Framework -INFO - Open application: 
-2025-01-31 14:41:59,595 - Pranav_Framework -INFO - **** Starting Test Case: TC02_LoginClass ****
-2025-01-31 14:41:59,598 - Pranav_Framework -INFO - Navigate to homepage
-2025-01-31 14:41:59,711 - Pranav_Framework -INFO - click on my account dropdown
-2025-01-31 14:42:01,857 - Pranav_Framework -INFO - click on login
-2025-01-31 14:42:02,626 - Pranav_Framework -INFO - Navigate to loginpage
-2025-01-31 14:42:02,638 - Pranav_Framework -INFO - enter usernamejohn432@gmail.com
-2025-01-31 14:42:03,051 - Pranav_Framework -INFO - enter usernameJohn@123
-2025-01-31 14:42:03,160 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
-2025-01-31 14:42:03,170 - Pranav_Framework -INFO - Close application
-2025-01-31 14:42:03,944 - Pranav_Framework -INFO - Browser close successfully
-2025-01-31 15:03:32,951 - Pranav_Framework -INFO - Logger initialized
-2025-01-31 15:03:32,974 - Pranav_Framework -INFO - Setting up browser
-2025-01-31 15:03:32,975 - Pranav_Framework -INFO - Open chrome browser
-2025-01-31 15:03:43,256 - Pranav_Framework -INFO - Browser open successfully
-2025-01-31 15:03:43,257 - Pranav_Framework -INFO - Browser maximize
-2025-01-31 15:03:43,438 - Pranav_Framework -INFO - Setting up implicitly wait
-2025-01-31 15:03:43,477 - Pranav_Framework -INFO - Open application: 
-2025-01-31 15:03:46,463 - Pranav_Framework -INFO - **** Starting Test Case: TC02_LoginClass ****
-2025-01-31 15:03:46,464 - Pranav_Framework -INFO - Navigate to homepage
-2025-01-31 15:03:46,553 - Pranav_Framework -INFO - click on my account dropdown
-2025-01-31 15:03:46,903 - Pranav_Framework -INFO - click on login
-2025-01-31 15:03:47,647 - Pranav_Framework -INFO - Navigate to loginpage
-2025-01-31 15:03:47,654 - Pranav_Framework -INFO - enter username: john432@gmail.com
-2025-01-31 15:03:50,068 - Pranav_Framework -INFO - enter password: John@123
-2025-01-31 15:03:50,333 - Pranav_Framework -INFO - click on login button
-2025-01-31 15:03:52,196 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
-2025-01-31 15:03:52,216 - Pranav_Framework -INFO - Close application
-2025-01-31 15:03:53,360 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 14:54:06,798 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 14:54:06,841 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 14:54:06,846 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 14:54:15,284 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 14:54:15,285 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 14:54:15,386 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 14:54:15,400 - Pranav_Framework -INFO - Open application: 
+2025-02-07 14:54:18,608 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
+2025-02-07 14:54:18,624 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 14:54:18,737 - Pranav_Framework -INFO - click on my account
+2025-02-07 14:54:19,401 - Pranav_Framework -INFO - click on register option
+2025-02-07 14:54:20,539 - Pranav_Framework -INFO - create a new account
+2025-02-07 14:54:20,557 - Pranav_Framework -INFO - Generated random string: eWhLb
+2025-02-07 14:54:20,559 - Pranav_Framework -INFO - Enter first name: ewhlb
+2025-02-07 14:54:20,750 - Pranav_Framework -INFO - Generated random string: gVslo
+2025-02-07 14:54:20,751 - Pranav_Framework -INFO - Enter last name: gvslo
+2025-02-07 14:54:20,919 - Pranav_Framework -INFO - Generated alpha numric: MIgZ316
+2025-02-07 14:54:20,921 - Pranav_Framework -INFO - Enter email: MIgZ316@gmail.com
+2025-02-07 14:54:21,099 - Pranav_Framework -INFO - Generated random number: 3619469759
+2025-02-07 14:54:21,099 - Pranav_Framework -INFO - Enter mobile number: 3619469759
+2025-02-07 14:54:21,234 - Pranav_Framework -INFO - Generated alpha numric: puPu908
+2025-02-07 14:54:21,235 - Pranav_Framework -INFO - enter password: [hidden] puPu908
+2025-02-07 14:54:21,361 - Pranav_Framework -INFO - Enter confirm password: [hidden] puPu908
+2025-02-07 14:54:21,485 - Pranav_Framework -INFO - Click on privacy policy check box
+2025-02-07 14:54:21,681 - Pranav_Framework -INFO - Click on continue button
+2025-02-07 14:54:23,051 - Pranav_Framework -INFO - Validation account creatation message
+2025-02-07 14:54:23,142 - Pranav_Framework -INFO - Account creatation message Your Account Has Been Created!
+2025-02-07 14:54:23,142 - Pranav_Framework -INFO - Account registration successful.
+2025-02-07 14:54:23,146 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
+2025-02-07 15:22:08,951 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 15:22:08,962 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 15:22:08,963 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 15:22:19,789 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 15:22:19,790 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 15:22:19,939 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 15:22:19,961 - Pranav_Framework -INFO - Open application: 
+2025-02-07 15:40:02,261 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 15:40:02,274 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 15:40:02,275 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 15:40:10,478 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 15:40:10,480 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 15:40:10,631 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 15:40:10,657 - Pranav_Framework -INFO - Open application: 
+2025-02-07 15:40:19,046 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:40:19,047 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:40:19,124 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:40:19,372 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:40:20,240 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 15:40:20,255 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 15:40:25,613 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:40:25,640 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:40:25,641 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:40:25,643 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:40:26,104 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:40:36,206 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2624e073a4b8de3a27a40980e09f1ef, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58058}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58058/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2624e073a4b8de3a27a40980e09f1ef
+2025-02-07 15:40:36,225 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:40:36,226 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:40:36,227 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:40:36,359 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:40:46,408 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2624e073a4b8de3a27a40980e09f1ef, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58058}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58058/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2624e073a4b8de3a27a40980e09f1ef
+2025-02-07 15:40:46,423 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:40:46,423 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:40:46,424 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:40:46,627 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:40:56,700 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2624e073a4b8de3a27a40980e09f1ef, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58058}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58058/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2624e073a4b8de3a27a40980e09f1ef
+2025-02-07 15:40:56,715 - Pranav_Framework -INFO - Close application
+2025-02-07 15:40:57,429 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 15:58:57,983 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 15:58:57,998 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 15:58:58,000 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 15:59:11,268 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 15:59:11,271 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 15:59:11,476 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 15:59:11,504 - Pranav_Framework -INFO - Open application: 
+2025-02-07 15:59:20,408 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:59:20,409 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:59:20,538 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:59:20,786 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:59:22,140 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 15:59:22,154 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 15:59:26,267 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:59:26,290 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:59:26,293 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:59:26,294 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:59:26,589 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:59:36,631 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09aa8f0c9101fc187f1b571730d9c1c6, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58715}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58715/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09aa8f0c9101fc187f1b571730d9c1c6
+2025-02-07 15:59:36,647 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:59:36,649 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:59:36,651 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:59:36,782 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:59:46,831 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09aa8f0c9101fc187f1b571730d9c1c6, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58715}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58715/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09aa8f0c9101fc187f1b571730d9c1c6
+2025-02-07 15:59:46,839 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 15:59:46,841 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 15:59:46,842 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 15:59:46,967 - Pranav_Framework -INFO - Click on login option
+2025-02-07 15:59:57,029 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [09aa8f0c9101fc187f1b571730d9c1c6, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58715}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58715/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 09aa8f0c9101fc187f1b571730d9c1c6
+2025-02-07 15:59:57,041 - Pranav_Framework -INFO - Close application
+2025-02-07 15:59:58,215 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:00:35,003 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:00:35,015 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:00:35,017 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:00:41,438 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:00:41,440 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:00:41,628 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:00:41,656 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:00:49,668 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:00:49,669 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:00:49,817 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:00:50,163 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:00:51,188 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:00:51,200 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:00:56,600 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:00:56,658 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:00:56,660 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:00:56,661 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:00:56,947 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:01:07,004 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00beecc6818bd9cd68928632d900884a, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58793}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58793/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00beecc6818bd9cd68928632d900884a
+2025-02-07 16:01:07,024 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:01:07,027 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:01:07,028 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:01:07,168 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:01:17,186 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00beecc6818bd9cd68928632d900884a, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58793}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58793/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00beecc6818bd9cd68928632d900884a
+2025-02-07 16:01:17,199 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:01:17,201 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:01:17,203 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:01:17,460 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:01:27,560 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00beecc6818bd9cd68928632d900884a, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58793}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58793/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 00beecc6818bd9cd68928632d900884a
+2025-02-07 16:01:27,579 - Pranav_Framework -INFO - Close application
+2025-02-07 16:01:28,293 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:06:16,602 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:06:16,616 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:06:16,617 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:06:24,631 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:06:24,632 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:06:24,949 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:06:25,000 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:06:34,184 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:06:34,186 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:06:34,261 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:06:34,560 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:06:36,338 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:06:36,362 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:06:39,546 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:06:39,562 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:06:39,564 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:06:39,571 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:06:39,874 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:06:49,965 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a5a22c4f8861944b834bb2887534546, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59015}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59015/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a5a22c4f8861944b834bb2887534546
+2025-02-07 16:06:49,993 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:06:49,997 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:06:50,006 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:06:50,213 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:07:00,266 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a5a22c4f8861944b834bb2887534546, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59015}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59015/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a5a22c4f8861944b834bb2887534546
+2025-02-07 16:07:00,284 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:07:00,286 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:07:00,287 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:07:00,561 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:07:10,674 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a5a22c4f8861944b834bb2887534546, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59015}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59015/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a5a22c4f8861944b834bb2887534546
+2025-02-07 16:07:10,691 - Pranav_Framework -INFO - Close application
+2025-02-07 16:07:11,640 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:11:40,778 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:11:40,792 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:11:40,794 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:11:51,772 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:11:51,773 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:11:52,129 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:11:52,169 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:12:05,744 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:12:05,745 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:12:05,857 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:12:06,212 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:12:07,616 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:12:07,625 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:12:21,903 - Pranav_Framework -ERROR - An exception occurred during the login test: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156eaab41fc567a75c5a07582b3f0af8, clickElement {id=f.A271E23352967B7ADF27A3DD39D9B437.d.A3D80B627068C8FD6DFE47F65CB0532E.e.73}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59242/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (156eaab41fc567a75c5a07582b3f0af8)] -> xpath: (//a[contains(text(),'Logout')])[1]]
+Session ID: 156eaab41fc567a75c5a07582b3f0af8
+2025-02-07 16:12:21,941 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:12:21,953 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:12:21,956 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:12:22,160 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:12:32,209 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156eaab41fc567a75c5a07582b3f0af8, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59242/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 156eaab41fc567a75c5a07582b3f0af8
+2025-02-07 16:12:32,221 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:12:32,221 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:12:32,222 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:12:32,359 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:12:42,382 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156eaab41fc567a75c5a07582b3f0af8, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59242/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 156eaab41fc567a75c5a07582b3f0af8
+2025-02-07 16:12:42,393 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:12:42,394 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:12:42,395 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:12:42,623 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:12:52,663 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [156eaab41fc567a75c5a07582b3f0af8, findElement {value=//a[contains(text(),'Login')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59242}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59242/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 156eaab41fc567a75c5a07582b3f0af8
+2025-02-07 16:12:52,673 - Pranav_Framework -INFO - Close application
+2025-02-07 16:12:53,529 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:23:33,710 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:23:33,725 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:23:33,726 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:23:43,681 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:23:43,682 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:23:43,999 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:23:44,023 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:23:53,967 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:23:53,968 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:23:54,054 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:23:54,349 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:23:55,767 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:23:55,790 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:23:56,376 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:23:56,397 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:23:56,400 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:23:56,405 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:23:56,776 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:23:57,540 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:23:57,543 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 16:23:57,999 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:23:58,006 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:23:58,008 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:23:58,009 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:23:58,306 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:23:59,556 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:23:59,566 - Pranav_Framework -INFO - Attempting multiple login with email: MIgZ316@gmail.com and password: puPu908
+2025-02-07 16:24:00,377 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:24:00,432 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:24:00,436 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:24:00,439 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:24:01,139 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:24:02,053 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:24:02,055 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 16:24:02,716 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:24:02,789 - Pranav_Framework -INFO - Close application
+2025-02-07 16:24:05,093 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:27:17,073 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:27:17,086 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:27:17,088 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:27:28,536 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:27:28,537 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:27:28,682 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:27:28,723 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:27:37,760 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:27:37,761 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:27:37,834 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:27:38,977 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:27:40,480 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:27:40,499 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:27:41,514 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:27:43,917 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:27:43,919 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:27:43,926 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:27:44,165 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:27:54,214 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c3a9e10a1d48d40a9c192e12632352a7, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59865}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59865/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c3a9e10a1d48d40a9c192e12632352a7
+2025-02-07 16:30:00,723 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:30:00,739 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:30:00,740 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:30:09,429 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:30:09,431 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:30:09,679 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:30:09,710 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:30:18,977 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:30:18,978 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:30:19,061 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:30:19,398 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:30:20,943 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:30:20,960 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:30:35,597 - Pranav_Framework -ERROR - An exception occurred during the login test: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d37d7782b5ca8ac2976845f6f35d8eb2, clickElement {id=f.3F10A2A8C3EFF817CEAC78B1FF51D7C3.d.856BB5590059782856D2CE777B9A3CBA.e.68}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59976}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59976/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d37d7782b5ca8ac2976845f6f35d8eb2)] -> xpath: (//a[contains(text(),'Logout')])[1]]
+Session ID: d37d7782b5ca8ac2976845f6f35d8eb2
+2025-02-07 16:30:35,615 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:30:35,615 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:30:35,619 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:30:35,766 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:30:45,802 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d37d7782b5ca8ac2976845f6f35d8eb2, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59976}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59976/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d37d7782b5ca8ac2976845f6f35d8eb2
+2025-02-07 16:30:45,819 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:30:45,820 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:30:45,821 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:30:45,999 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:30:56,089 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d37d7782b5ca8ac2976845f6f35d8eb2, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59976}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59976/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d37d7782b5ca8ac2976845f6f35d8eb2
+2025-02-07 16:30:56,103 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:30:56,105 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:30:56,107 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:30:56,316 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:31:06,347 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(text(),'Login')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d37d7782b5ca8ac2976845f6f35d8eb2, findElement {using=xpath, value=//a[contains(text(),'Login')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59976}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59976/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d37d7782b5ca8ac2976845f6f35d8eb2
+2025-02-07 16:31:06,357 - Pranav_Framework -INFO - Close application
+2025-02-07 16:31:07,174 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:32:13,094 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:32:13,108 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:32:13,109 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:32:25,049 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:32:25,050 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:32:25,222 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:32:25,248 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:32:35,791 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:32:35,792 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:32:35,904 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:32:36,119 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:32:37,552 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:32:37,562 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:32:47,064 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:32:47,102 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:32:47,107 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:32:47,120 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:32:47,438 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:32:48,409 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:32:48,410 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 16:33:05,361 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[contains(text(),'Logout')])[1]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07c0cd96351ca7939ade82fc8fbaaeb1, findElement {value=(//a[contains(text(),'Logout')])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60080/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07c0cd96351ca7939ade82fc8fbaaeb1
+2025-02-07 16:33:05,378 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:33:05,378 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:33:05,380 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:33:05,505 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:33:15,572 - Pranav_Framework -ERROR - An exception occurred during the login test: element not interactable
+  (Session info: chrome=132.0.6834.160)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07c0cd96351ca7939ade82fc8fbaaeb1, clickElement {id=f.18FF7559FC041EBAF9AEDB400BA5659B.d.BB047906F4891B964793FD3B4B1F6CAB.e.121}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60080/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (07c0cd96351ca7939ade82fc8fbaaeb1)] -> xpath: //a[contains(text(),'Login')]]
+Session ID: 07c0cd96351ca7939ade82fc8fbaaeb1
+2025-02-07 16:33:15,581 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:33:15,582 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:33:15,584 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:33:15,707 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:33:17,105 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:33:17,106 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 16:33:32,625 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[contains(text(),'Logout')])[1]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [07c0cd96351ca7939ade82fc8fbaaeb1, findElement {value=(//a[contains(text(),'Logout')])[1], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60080}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60080/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 07c0cd96351ca7939ade82fc8fbaaeb1
+2025-02-07 16:33:32,649 - Pranav_Framework -INFO - Close application
+2025-02-07 16:33:33,966 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:37:32,624 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:37:32,640 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:37:32,642 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:37:41,779 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:37:41,780 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:37:41,942 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:37:41,966 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:37:52,800 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:37:52,801 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:37:52,856 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:37:53,094 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:37:54,442 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:37:54,450 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:38:01,648 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:38:01,671 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:38:01,681 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:38:01,683 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:38:01,968 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:38:02,843 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:38:02,850 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 16:38:17,615 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[contains(text(),'Logout')])[2]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1637e24b6704c071c2cfce1a44b01717, findElement {value=(//a[contains(text(),'Logout')])[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60381/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1637e24b6704c071c2cfce1a44b01717
+2025-02-07 16:38:17,644 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:38:17,647 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:38:17,648 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:38:17,777 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:38:19,037 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:38:19,038 - Pranav_Framework -INFO - Attempting multiple login with email: MIgZ316@gmail.com and password: puPu908
+2025-02-07 16:38:23,954 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:38:23,967 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:38:23,968 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:38:23,970 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:38:24,172 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:38:24,869 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:38:24,870 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 16:38:38,218 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"(//a[contains(text(),'Logout')])[2]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1637e24b6704c071c2cfce1a44b01717, findElement {value=(//a[contains(text(),'Logout')])[2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60381}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60381/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1637e24b6704c071c2cfce1a44b01717
+2025-02-07 16:38:38,228 - Pranav_Framework -INFO - Close application
+2025-02-07 16:38:39,032 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:45:49,598 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:45:49,611 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:45:49,613 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:45:59,739 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:45:59,740 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:45:59,869 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:45:59,911 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:46:07,700 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:07,701 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:46:07,806 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:46:08,163 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:46:10,010 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:46:10,022 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:46:16,932 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:16,958 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:16,959 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:46:16,961 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:46:17,309 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:46:18,103 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:46:18,104 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 16:46:29,705 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e46042205d8f1a295f54b770dcc907, findElement {using=xpath, value=//h2[contains(text(),'My Account')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60677}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60677/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e46042205d8f1a295f54b770dcc907
+2025-02-07 16:46:29,717 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:29,720 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:46:29,722 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:46:29,882 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:46:31,111 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:46:31,112 - Pranav_Framework -INFO - Attempting multiple login with email: MIgZ316@gmail.com and password: puPu908
+2025-02-07 16:46:34,015 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:34,043 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:46:34,044 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:46:34,047 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:46:34,203 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:46:34,906 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:46:34,910 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 16:46:47,096 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42e46042205d8f1a295f54b770dcc907, findElement {using=xpath, value=//h2[contains(text(),'My Account')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60677}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60677/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42e46042205d8f1a295f54b770dcc907
+2025-02-07 16:46:47,107 - Pranav_Framework -INFO - Close application
+2025-02-07 16:46:47,943 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 16:50:35,438 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 16:50:35,451 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 16:50:35,453 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 16:50:41,942 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 16:50:41,943 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 16:50:42,135 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 16:50:42,182 - Pranav_Framework -INFO - Open application: 
+2025-02-07 16:50:50,407 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:50:50,408 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:50:50,485 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:50:50,697 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:50:52,124 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:50:52,140 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 16:50:58,057 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:50:58,077 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:50:58,079 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:50:58,080 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:50:58,551 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:50:59,315 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:50:59,318 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 16:51:11,479 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [182c05f3322b91b112725db4953da6ff, findElement {value=//h2[contains(text(),'My Account')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60862}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60862/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 182c05f3322b91b112725db4953da6ff
+2025-02-07 16:51:11,491 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:51:11,491 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:51:11,493 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:51:11,663 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:51:12,981 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:51:12,983 - Pranav_Framework -INFO - Attempting multiple login with email: MIgZ316@gmail.com and password: puPu908
+2025-02-07 16:51:18,033 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:51:18,051 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 16:51:18,053 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 16:51:18,066 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 16:51:18,249 - Pranav_Framework -INFO - Click on login option
+2025-02-07 16:51:19,096 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 16:51:19,098 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 16:51:31,571 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [182c05f3322b91b112725db4953da6ff, findElement {value=//h2[contains(text(),'My Account')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60862}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60862/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 182c05f3322b91b112725db4953da6ff
+2025-02-07 16:51:31,579 - Pranav_Framework -INFO - Close application
+2025-02-07 16:51:32,390 - Pranav_Framework -INFO - Browser close successfully
+2025-02-07 17:01:17,900 - Pranav_Framework -INFO - Logger initialized
+2025-02-07 17:01:17,919 - Pranav_Framework -INFO - Setting up browser
+2025-02-07 17:01:17,925 - Pranav_Framework -INFO - Open chrome browser
+2025-02-07 17:01:30,902 - Pranav_Framework -INFO - Browser open successfully
+2025-02-07 17:01:30,903 - Pranav_Framework -INFO - Browser maximize
+2025-02-07 17:01:31,087 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-07 17:01:31,125 - Pranav_Framework -INFO - Open application: 
+2025-02-07 17:01:41,337 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:01:41,339 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 17:01:41,423 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 17:01:41,724 - Pranav_Framework -INFO - Click on login option
+2025-02-07 17:01:43,318 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 17:01:43,330 - Pranav_Framework -INFO - Attempting multiple login with email: john432@gmail.com and password: John@123
+2025-02-07 17:01:48,177 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:01:48,201 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:01:48,202 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 17:01:48,204 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 17:01:48,498 - Pranav_Framework -INFO - Click on login option
+2025-02-07 17:01:49,442 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 17:01:49,445 - Pranav_Framework -INFO - Attempting multiple login with email: john234@gmail.com and password: Test@234
+2025-02-07 17:02:02,988 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d0930de85b0867f9cd04081f6324bfa, findElement {value=//h2[contains(text(),'My Account')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61308/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d0930de85b0867f9cd04081f6324bfa
+2025-02-07 17:02:03,002 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:02:03,002 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 17:02:03,003 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 17:02:03,172 - Pranav_Framework -INFO - Click on login option
+2025-02-07 17:02:04,654 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 17:02:04,657 - Pranav_Framework -INFO - Attempting multiple login with email: MIgZ316@gmail.com and password: puPu908
+2025-02-07 17:02:07,442 - Pranav_Framework -INFO - **** Finished Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:02:07,454 - Pranav_Framework -INFO - **** Starting Test Case: TC04_LoginClassDTT ****
+2025-02-07 17:02:07,455 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-07 17:02:07,456 - Pranav_Framework -INFO - Click on MyAccount
+2025-02-07 17:02:07,620 - Pranav_Framework -INFO - Click on login option
+2025-02-07 17:02:08,282 - Pranav_Framework -INFO - Navigate to loginpage
+2025-02-07 17:02:08,283 - Pranav_Framework -INFO - Attempting multiple login with email: test@gmail.com and password: Demo@123
+2025-02-07 17:02:19,616 - Pranav_Framework -ERROR - An exception occurred during the login test: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[contains(text(),'My Account')]"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d0930de85b0867f9cd04081f6324bfa, findElement {value=//h2[contains(text(),'My Account')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\Pranav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61308/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d0930de85b0867f9cd04081f6324bfa
+2025-02-07 17:02:19,624 - Pranav_Framework -INFO - Close application
+2025-02-07 17:02:20,320 - Pranav_Framework -INFO - Browser close successfully
+2025-02-23 12:41:10,778 - Pranav_Framework -INFO - Logger initialized
+2025-02-23 12:41:10,802 - Pranav_Framework -INFO - Setting up browser
+2025-02-23 12:41:10,820 - Pranav_Framework -INFO - Open chrome browser
+2025-02-23 12:41:28,867 - Pranav_Framework -INFO - Browser open successfully
+2025-02-23 12:41:28,868 - Pranav_Framework -INFO - Browser maximize
+2025-02-23 12:41:29,020 - Pranav_Framework -INFO - Setting up implicitly wait
+2025-02-23 12:41:29,059 - Pranav_Framework -INFO - Open application: 
+2025-02-23 12:41:32,785 - Pranav_Framework -INFO - **** Starting Test Case: TC01_RegistrationClass ****
+2025-02-23 12:41:32,799 - Pranav_Framework -INFO - Navigate to homepage
+2025-02-23 12:41:32,902 - Pranav_Framework -INFO - click on my account
+2025-02-23 12:41:33,220 - Pranav_Framework -INFO - click on register option
+2025-02-23 12:41:34,601 - Pranav_Framework -INFO - create a new account
+2025-02-23 12:41:34,640 - Pranav_Framework -INFO - Generated random string: tuBzT
+2025-02-23 12:41:34,641 - Pranav_Framework -INFO - Enter first name: tubzt
+2025-02-23 12:41:34,993 - Pranav_Framework -INFO - Generated random string: eMAie
+2025-02-23 12:41:34,995 - Pranav_Framework -INFO - Enter last name: emaie
+2025-02-23 12:41:35,201 - Pranav_Framework -INFO - Generated alpha numric: xKVX647
+2025-02-23 12:41:35,203 - Pranav_Framework -INFO - Enter email: xKVX647@gmail.com
+2025-02-23 12:41:35,453 - Pranav_Framework -INFO - Generated random number: 8280746015
+2025-02-23 12:41:35,454 - Pranav_Framework -INFO - Enter mobile number: 8280746015
+2025-02-23 12:41:35,635 - Pranav_Framework -INFO - Generated alpha numric: jrAa934
+2025-02-23 12:41:35,636 - Pranav_Framework -INFO - enter password: [hidden] jrAa934
+2025-02-23 12:41:35,870 - Pranav_Framework -INFO - Enter confirm password: [hidden] jrAa934
+2025-02-23 12:41:36,062 - Pranav_Framework -INFO - Click on privacy policy check box
+2025-02-23 12:41:36,253 - Pranav_Framework -INFO - Click on continue button
+2025-02-23 12:41:37,757 - Pranav_Framework -INFO - Validation account creatation message
+2025-02-23 12:41:37,984 - Pranav_Framework -INFO - Account creatation message Your Account Has Been Created!
+2025-02-23 12:41:37,985 - Pranav_Framework -INFO - Account registration successful.
+2025-02-23 12:41:37,990 - Pranav_Framework -INFO - **** Finished Test Case: TC01_RegistrationClass ****
+2025-02-23 12:41:38,006 - Pranav_Framework -INFO - Close application
+2025-02-23 12:41:38,738 - Pranav_Framework -INFO - Browser close successfully
+2025-02-26 22:55:13,256 - Pranav_Framework -INFO - Logger initialized
+2025-02-26 22:55:13,277 - Pranav_Framework -INFO - Setting up browser
+2025-02-26 22:55:13,277 - Pranav_Framework -INFO - Open chrome browser

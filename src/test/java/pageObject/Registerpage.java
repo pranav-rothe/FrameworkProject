@@ -31,6 +31,9 @@ public class Registerpage {
 	@FindBy(css = "input.btn.btn-primary")
 	private WebElement continueButton;
 	
+	@FindBy(xpath = "//h1[contains(text(),'Your Account Has Been Created!')]")
+	private WebElement text;
+	
 	public Registerpage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
 	}
@@ -65,6 +68,15 @@ public class Registerpage {
 	
 	public void clickOn_Continue() {
 		continueButton.click();
+	}
+	
+	public String verifyText() {
+		try {
+			return (text.getText());
+		}
+		catch(Exception e) {
+			return (e.getMessage());
+		}
 	}
 	
 	
